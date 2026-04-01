@@ -6,7 +6,7 @@ A simple and interactive web application to calculate the **total** and **averag
 
 <div align="center">
 
-### 🚀 **Live Demo**
+## **Live Demo**
 
 # 🔗 [👉 Click Me to See it..](https://ashikmadhu.github.io/Student_Mark_Calculator/)
 
