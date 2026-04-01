@@ -4,6 +4,12 @@ A simple and interactive web application to calculate the **total** and **averag
 
 ---
 
+## 🌐 Live Demo
+
+👉 https://ashikmadhu.github.io/Student_Mark_Calculator/
+
+---
+
 ## ✨ Features
 
 - 📥 Enter marks for three subjects  
@@ -66,5 +72,7 @@ A simple centered card layout with input fields and a calculate button.
 - 📈 Better UI enhancements  
 
 ---
+
+## ❤️ Author
 
 Created for practice and learning web development.
