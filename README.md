@@ -4,10 +4,13 @@ A simple and interactive web application to calculate the **total** and **averag
 
 ---
 
-## 🌐 Live Demo
+<div align="center">
 
-👉 https://ashikmadhu.github.io/Student_Mark_Calculator/
+### 🚀 **Live Demo**
 
+# 🔗 [👉 Click Me to See it..](https://ashikmadhu.github.io/Student_Mark_Calculator/)
+
+</div>
 ---
 
 ## ✨ Features
